@@ -1,0 +1,26 @@
+---------------OUTPUT-----------------
+
+There are 4 ERROR lines. on 2020-05-08
+Execution time: 4170
+There are 0 ERROR lines. on 2020-05-09
+Execution time: 2292
+There are 0 ERROR lines. on 2020-05-10
+Execution time: 2016
+There are 0 ERROR lines. on 2020-05-11
+Execution time: 1921
+There are 0 ERROR lines. on 2020-05-13
+Execution time: 1953
+Execution time: : 12443 ms.
+-----Multi-threading-----
+There are 0 ERROR lines. on 2020-05-09
+Execution time: 2610
+There are 0 ERROR lines. on 2020-05-11
+Execution time: 2600
+There are 0 ERROR lines. on 2020-05-10
+Execution time: 2602
+There are 4 ERROR lines. on 2020-05-08
+Execution time: 3705
+There are 0 ERROR lines. on 2020-05-12
+Execution time: 3732
+execution time: : 3755 ms
+Multi-Threading calls are faster
